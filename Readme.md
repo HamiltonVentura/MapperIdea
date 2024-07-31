@@ -56,10 +56,14 @@ flowchart LR
  - Na sequência utilize  com os dados fornecidos pela Mapperidea para autorizar seus acessos.
 ```authorize|a <email> <machine> <server>```
 
+
+### Observações: ###
+
 - inicialize o projeto com o nome do projeto e o nome do arquivo
 ``` mi init <nome do projeto> <arquivo.mm> ```
 
 - Atualize o projeto subindo as informações para o servidor
 ``` mi push <nome do projeto> ```
 
+- O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servidor para atualização, e então utilizar o comando para geração de código.
 
