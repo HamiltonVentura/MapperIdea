@@ -54,7 +54,7 @@ flowchart LR
 ``` mi -h ```
 
  - Na sequência utilize  com os dados fornecidos pela Mapperidea para autorizar seus acessos.
- authorize|a <email> <machine> <server>
+```authorize|a <email> <machine> <server>```
 
 - inicialize o projeto com o nome do projeto e o nome do arquivo
 ``` mi init <nome do projeto> <arquivo.mm> ```
