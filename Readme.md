@@ -35,7 +35,9 @@ Após efetuar os mapeamentos, é necessário executar via linha de comando a ger
 flowchart LR
     Mapeamento ---> Gerar-Codigo ---> Opcional ---> ShellScript;
     Opcional ---> BatchScript;
-    Gerar-Codigo ---> Arquitetura;
+    Gerar-Codigo ---> Regra-de-negocio;
+    Regra-de-negocio --->Arquitetura;
+ Arquitetura;
 
     Arquitetura --->PHP;
     Arquitetura --->JAVA;
