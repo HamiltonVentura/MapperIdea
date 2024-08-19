@@ -90,5 +90,8 @@ O icone **Direct to Field**, representa o campo de entrada de dados, por exempo:
 
 ## Icon-Descriptor-Class
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Descriptor.class.png),
+Ícone de descrição de classe, em seu nó adicione esse ícone para indicar que é uma classe comum. 
 
-
+## Icon-Descriptor-Bean
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Descriptor.aggregate.png),
+Ícone de descrição de classe Bean, em seu nó adicione esse ícone para indicar que é uma classe que necessita. 
