@@ -108,8 +108,15 @@ O icone **Direct to Field**, representa o campo de entrada de dados, por exempo:
 Uma determinada classe pode ter subclasses, inferindo a relação "Um parar muitos", um exemplo simples seria 
 uma classe "Orçamento" que contem diversos itens/produtos. como tecla de atalho utilize **alt+o**
 
-
 ## Icon-Many-to-one
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.manyToOne.png),
-Uma determinada classe pode ser o item de uma classe pai, para isso utilizamos icone Muitos para um
+Uma determinada classe pode ser o item de uma classe pai, para isso utilizamos icone Muitos para um.
+
+## Icon-Element
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.manyToOne.png),
+É Aplicado de diversas maneiras essa ferramentas, principalmente em algumas palavras chaves do mapper idea em seu mapa,
+mental.
+
+
+
 
