@@ -97,11 +97,11 @@ O icone **Direct to Field**, representa o campo de entrada de dados, por exempo:
 
 ## Icon-Descriptor-Class
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Descriptor.class.png),
-Ícone de descrição de classe, em seu nó adicione esse ícone para indicar que é uma classe comum. 
+Ícone de descrição de classe, em seu nó adicione esse ícone para indicar que é uma classe comum. Tecla de talho **alt+c**
 
 ## Icon-Descriptor-Bean
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Descriptor.aggregate.png),
-Ícone de descrição de classe Bean, em seu nó adicione esse ícone para indicar que é uma classe do tipo Bean.
+Ícone de descrição de classe Bean, em seu nó adicione esse ícone para indicar que é uma classe do tipo Bean. Tecla de atalho **alt+b**
 
 ## Icon-One-to-Many
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.oneToMany.png),
@@ -110,7 +110,13 @@ uma classe "Orçamento" que contem diversos itens/produtos. como tecla de atalho
 
 ## Icon-Many-to-one
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.manyToOne.png),
-Uma determinada classe pode ser o item de uma classe pai, para isso utilizamos icone Muitos para um.
+Uma determinada classe pode ser o item de uma classe pai, para isso utilizamos icone Muitos para um.**alt+d**
+
+## Icon one-to-one
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.manyToOne.png),
+O ícone one-to-one indica que existe a relação um para um. Por exemplo classe Empregado possui vinculo com um computador, assim sendo, não possuiria vinculos com mais computadores estabelecendo a relação um para um. Tecla de atalho **alt+r**
+
+
 
 
 
