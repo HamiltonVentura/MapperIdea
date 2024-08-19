@@ -34,14 +34,13 @@ Após efetuar os mapeamentos, é necessário executar via linha de comando a ger
 
 ```mermaid
 flowchart LR
-    Gerar-mapa --> arquitetura
+    Gerar-mapa --> Arquitetura
     Gerar-mapa ---> Regra-de-negocio;
-Arquitetura;
+    Regra-de-negocio --> Mapas-Mentais-Freemind
     Arquitetura --->PHP;
     Arquitetura --->JAVA;
     Arquitetura --->Html;
-    Arquitetura --->JAVASCRIPT
-     
+    Arquitetura --->JAVASCRIPT;     
 ```
 
 
