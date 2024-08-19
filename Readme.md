@@ -12,9 +12,9 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 
 #### Pré-Requisitos Linguagens de programação
 >[!IMPORTANT]
-> Linguagem Javascript (Vanilla JS) #JAVASCRIPT;
->  As linguagens de marcação e estilo #HTML E #CSS;
->  SpringBoot para o back-End  #JAVA #SPRINGBOOT;
+> Linguagem Javascript (Vanilla JS) #JAVASCRIPT;<br>
+>  As linguagens de marcação e estilo #HTML E #CSS;<br>
+>  SpringBoot para o back-End  #JAVA #SPRINGBOOT;<br>
 >  Ou Node JS #NODJS;
 
 >[!IMPORTANT]
