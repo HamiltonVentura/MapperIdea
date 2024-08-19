@@ -47,12 +47,6 @@ Arquitetura;
 ```
 
 
-[!NOTE](Opcionalmente você pode utilizar o mapeamento em qualquer linguagem, mas preferencialmenteo...)
->[!IMPORTANT]
->
->This is an IMPORTANT note.
-
-
 ### INSTALAÇÃO E USO DA FERRAMENTA
 
 - Instalar antes o node versão 12 
