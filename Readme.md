@@ -11,11 +11,15 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 
 
 #### Pré-Requisitos Linguagens de programação
->[!PREREQUISITES]
+>[!IMPORTANT]
 > Linguagem Javascript (Vanilla JS) #JAVASCRIPT ;
 >  As linguagens de marcação e estilo #HTML E #CSS ;
 >  SpringBoot para o back-End  #JAVA #SPRINGBOOT 
 >  Ou Node JS #NODJS
+
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
 
 #### Principais conceitos MaperIDea
 - O [[XML]]    é de extrema importância pois os documentos gerados pela Estrutura gerada são em mm que é um tipo de arquivo  Em sua base XML.
