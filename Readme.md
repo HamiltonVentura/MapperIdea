@@ -46,6 +46,15 @@ flowchart LR
     Arquitetura --->Html;
     Arquitetura --->JAVASCRIPT;     
 ```
+O fluxo de utilização dos mapas mentais funciona da seguinte forma, O Mapperidea utiliza o código gerado pelos mapas mentais, sobe para o servidor essas informações, e como retorno ele traz o código escrito na arquitetura escolhida que foi construida.
+
+```mermaid
+flowchart LR
+    sobe-mapa-regras-de-negócio --> servidor;
+    sobe-mapa-da-arquitetura --> servidor;
+    servidor --> retorna-código-escrito;   
+```
+
 
 
 ### INSTALAÇÃO E USO DA FERRAMENTA
