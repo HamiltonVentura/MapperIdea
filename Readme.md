@@ -44,36 +44,8 @@ Arquitetura;
     Arquitetura --->JAVASCRIPT
      
 ```
-![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png)
 
 
-digraph G {
-    node [shape=plaintext];
-    
-    Mapeamento -> Gerar_Codigo -> Opcional -> ShellScript;
-    Opcional -> BatchScript;
-    Gerar_Codigo -> Regra_de_negocio;
-    Regra_de_negocio -> Arquitetura;
-    
-    Arquitetura -> PHP;
-    Arquitetura -> JAVA;
-    Arquitetura -> Html;
-    Arquitetura -> JAVASCRIPT;
-    
-    Opcional [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">
-        <TR>
-            <TD><IMG SRC="https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png"/></TD>
-            <TD>Opcional</TD>
-        </TR>
-    </TABLE>>];
-    
-    BatchScript [label="Batch Script"];
-    ShellScript [label="Shell Script"];
-    PHP [label="PHP"];
-    JAVA [label="JAVA"];
-    Html [label="HTML"];
-    JAVASCRIPT [label="JavaScript"];
-}
 
 
 
@@ -104,4 +76,5 @@ digraph G {
 
 
 ### ICONOGRAFIA ####
- ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png)
+## Direct-to-Field
+![Diagrama do Processo]([caminho/para/imagem/diagrama.dot.png](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.directToField.png))
