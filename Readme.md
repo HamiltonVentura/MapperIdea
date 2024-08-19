@@ -34,7 +34,7 @@ Após efetuar os mapeamentos, é necessário executar via linha de comando a ger
 ```mermaid
 flowchart LR
     Mapeamento ---> Gerar-Codigo ---> Opcional ---> ShellScript;
-        Opcional(["<img src='https://raw.githubusercontent.com/HamiltonVentura/MapperIdea-Java/main/icones/Class.default.png' width='25' height='25'/> Opcional"]) --> BatchScript
+        [Opcional(["<img src='https://raw.githubusercontent.com/HamiltonVentura/MapperIdea-Java/main/icones/Class.default.png' width='25' height='25'/> Opcional"]) --> BatchScript](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Class.default.png)
 
     Gerar-Codigo ---> Regra-de-negocio;
     Regra-de-negocio --->Arquitetura;
