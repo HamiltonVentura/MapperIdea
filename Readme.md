@@ -34,7 +34,7 @@ Após efetuar os mapeamentos, é necessário executar via linha de comando a ger
 ```mermaid
 flowchart LR
     Mapeamento ---> Gerar-Codigo ---> Opcional ---> ShellScript;
-    Opcional ---> BatchScript;
+    Opcional![logo]([(https://github.com/HamiltonVentura/MapperIdea-Java/icones/Class.default.png)] ---> BatchScript;
     Gerar-Codigo ---> Regra-de-negocio;
     Regra-de-negocio --->Arquitetura;
  Arquitetura;
@@ -45,6 +45,9 @@ flowchart LR
     Arquitetura --->JAVASCRIPT
      
 ```
+
+
+
 ### INSTALAÇÃO E USO DA FERRAMENTA
 
 - Instalar antes o node versão 12 
