@@ -54,6 +54,7 @@ flowchart LR
     sobe-mapa-da-arquitetura --> servidor;
     servidor --> retorna-código-escrito;   
 ```
+A idéia principal é após mapeamento do código da arquitetura, alterar apenas os mapas mentais de regra de negócio, automatizando assim os processos referentes a codificação do sistema em construção ou alteração.
 
 
 
