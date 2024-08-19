@@ -113,11 +113,6 @@ uma classe "Orçamento" que contem diversos itens/produtos. como tecla de atalho
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.manyToOne.png),
 Uma determinada classe pode ser o item de uma classe pai, para isso utilizamos icone Muitos para um.
 
-## Icon-Element
-![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/),
-É Aplicado de diversas maneiras essa ferramentas, principalmente em algumas palavras chaves do mapper idea em seu mapa,
-mental.
-
 
 
 
