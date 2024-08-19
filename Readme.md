@@ -77,4 +77,4 @@ Arquitetura;
 
 ### ICONOGRAFIA ####
 ## Direct-to-Field
-![Diagrama do Processo]([caminho/para/imagem/diagrama.dot.png](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.directToField.png))
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png)
