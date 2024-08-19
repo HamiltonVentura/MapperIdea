@@ -79,7 +79,8 @@ Arquitetura;
 
 ## Package
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Package.png),
-
+O ícone Package, siginifica pacote, indica diretórios. Todas as vezes que existir esse icone nos mapas mentais significa que existe um diretório, isso ajuda a organizar
+e melhorar o entendimento do código.Pela padonização das teclas utilize **A tecla p**
 
 
 ## Direct-to-Field
