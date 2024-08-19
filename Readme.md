@@ -34,7 +34,7 @@ Após efetuar os mapeamentos, é necessário executar via linha de comando a ger
 ```mermaid
 flowchart LR
     Mapeamento ---> Gerar-Codigo ---> Opcional ---> ShellScript;
-    ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png) Opcional --> BatchScript;
+    Opcional --> BatchScript;
     Gerar-Codigo ---> Regra-de-negocio;
     Regra-de-negocio --->Arquitetura;
 
@@ -73,3 +73,6 @@ Arquitetura;
 
 - O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servidor para atualização, e então utilizar o comando para geração de código.
 
+
+### ICONOGRAFIA ####
+ ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Database.connected.png)
