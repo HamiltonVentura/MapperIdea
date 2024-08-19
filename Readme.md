@@ -63,7 +63,8 @@ npm install mapperidea-cli -g
 
 - teste usando o comando 
 
-``` mi -h ```
+~~~bash mi -h
+~~~
 
  - Na sequência utilize  com os dados fornecidos pela Mapperidea para autorizar seus acessos.
 ```authorize|a <email> <machine> <server>```
