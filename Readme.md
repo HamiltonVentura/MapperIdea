@@ -97,7 +97,7 @@ O icone **Direct to Field**, representa o campo de entrada de dados, por exempo:
 Ícone de descrição de classe Bean, em seu nó adicione esse ícone para indicar que é uma classe do tipo Bean.
 
 ## Icon-One-to-Many
-![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.eisOneToMany.png),
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/Mapping.oneToMany.png),
 Uma determinada classe pode ter subclasses, inferindo a relação "Um parar muitos", um exemplo simples seria 
 uma classe "Orçamento" que contem diversos itens/produtos. como tecla de atalho utilize **alt+o**
 
