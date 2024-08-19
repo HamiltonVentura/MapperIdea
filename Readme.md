@@ -31,12 +31,16 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 > os quais poderão se alterados atualizados uma vez montados, sem necessidade de alterar código "na unha".
 
 Após efetuar os mapeamentos, é necessário executar via linha de comando a geração de códigos, que é uma conversão do codigo mapeado em codigos práticos.
+A baixo é uma ilustração de como é o processo de criação dos mapas.
 
 ```mermaid
 flowchart LR
     Gerar-mapa --> Arquitetura
     Gerar-mapa ---> Regra-de-negocio;
-    Regra-de-negocio --> Mapas-Mentais-Freemind
+    Regra-de-negocio --> Mapas-Mentais-Freemind;
+    Mapas-Mentais-Freemind --> Classes-atributos;
+    Mapas-Mentais-Freemind --> funções;
+    Mapas-Mentais-Freemind --> pacotes;
     Arquitetura --->PHP;
     Arquitetura --->JAVA;
     Arquitetura --->Html;
