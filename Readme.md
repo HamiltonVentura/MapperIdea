@@ -57,7 +57,7 @@ Arquitetura;
 
 - Instalar antes o node versão 12 
 
-~~~bach
+~~~bash
 npm install mapperidea-cli -g
 ~~~
 
