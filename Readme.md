@@ -49,7 +49,8 @@ A baixo é uma ilustração de como é o processo de criação dos mapas.
 ```mermaid
 flowchart LR
     Gerar-mapa --> Arquitetura  
-    Regra-de-negocio --> Mapas-Mentais-Freemind;
+    Mapas-Mentais-Freemind -->Regra-de-negocio;
+    Mapas-Mentais-Freemind --> Gerar-mapa;
     Regra-de-negocio --> Classes-atributos;
     Regra-de-negocio --> funções;
     Regra-de-negocio --> pacotes;
