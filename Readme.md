@@ -1,8 +1,20 @@
 
-# MapperIdea-JAVA
-## Introdução ao Mapperidea 
+# MapperIdea
 
-Aqui esta alguns exercícios do MapperIdea, através das dicas aqui faladas é possível desenvolver sua primeira aplicação de agile code
+# Índice
+
+1. [Introdução](#introdução)
+    1. [Pré-Requisitos](#Pré-Requisitos)
+    2. [Principais conceitos](#Principais-conceitos-MaperIDea)
+2. [Softwares Utilizados](#SOFTWARES-UTILIZADOS)
+3. [Instalação e uso da ferramenta](#INSTALAÇÃO-E-USO-DA-FERRAMENTA)
+4. [Construção de mapa](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/construcao.md)
+5. [Referências](#referências)
+
+7. 
+## Introdução
+
+MapperIdea é uma ferramenta que automatiza a geração de código em conjunto com o Freemind, uma ferramenta de mapas mentais. Usando MapperIdea, é possível converter mapas mentais em código, o que facilita o desenvolvimento de software e aproxima os stakeholders do projeto, tornando a colaboração mais eficiente e compreensível para todos os envolvidos.
 
 ### Mapperidea
 __Finalidade da Ferramenta :__
@@ -10,8 +22,8 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 *Ideia : "Criar na unha  apenas uma vez"*
 
 
-#### Pré-Requisitos Linguagens de programação
->[!IMPORTANTE]
+#### Pré-Requisitos
+>[!IMPORTANT]
 > Linguagem Javascript (Vanilla JS) #JAVASCRIPT;<br>
 >  1 - As linguagens de marcação e estilo #HTML E #CSS;<br>
 >  2 - SpringBoot para o back-End  #JAVA #SPRINGBOOT;<br>
@@ -23,7 +35,7 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 > 2 - O [[XPATH - Básico|Xpath]] é essência para utilização do MI (MapperIdea) , através dele é possível correr os documentos XML. 
 > 3 - O conceito de [[XQUERY]] facilita o entendimento da aplicação das funções dentro de Mapperidea.
 
-### SOFTWARES UTILIZADOS 
+## SOFTWARES UTILIZADOS 
 - NODE 12 
 - Freemind 1.0 + pacote de icones 
 
@@ -58,9 +70,16 @@ A idéia principal é após mapeamento do código da arquitetura, alterar apenas
 
 
 
-### INSTALAÇÃO E USO DA FERRAMENTA
-
-- Instalar antes o node versão 12 
+## INSTALAÇÃO E USO DA FERRAMENTA
+#### Instalar antes o node versão 14
+  **Para Linux**
+~~~bash
+sudo apt install npm
+~~~
+**para Windows**
+~~~bash
+choco install nodejs-lts --version=14.17.6
+~~~
 
 ~~~bash
 npm install mapperidea-cli -g
@@ -88,7 +107,7 @@ O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servid
 
 
 ### ICONOGRAFIA ####
-Para adicionar um ícone a qualquer um de seus nós em seu mapa mental utilize a tecla de atalho "Alt + I" o qual abrirá uma tela de icones, você poderá clicar no ícone desejado ou poderá utilizar as teclas de talhos. Acompanhe a baixo os ícones mais utilizados para mapeamentos de regra de negócio.
+Para adicionar um ícone a qualquer um de seus nós em seu mapa mental utilize a tecla de atalho "Alt + I" o qual abrirá uma tela de icones, você poderá clicar no ícone desejado ou poderá utilizar as teclas de talhos. Acompanhe a baixo os ícones mais utilizados para mapeamentos de regra de negócio.<br>
 <img src="https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/telaIcones.png" alt="Imagem telas de ícones" width="200">
 
 
@@ -127,7 +146,8 @@ O ícone one-to-one indica que existe a relação um para um. Por exemplo classe
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/element.png)
 O ícone element é utilizado para diversas indicações, mas principalmente com palavras chaves do Mapperidea e em momentos como descritivos de algumas funcionalidade. **alt+e**
 
-
-
-
 [Construção de mapa simples](/construcao.md)
+
+
+
+
