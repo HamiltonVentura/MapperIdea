@@ -13,3 +13,21 @@ O @ é interpretado como linhas de orientação para banco de dados e também pa
 ## Relação entre classes 
 
 As relações entre as classes podem ser definidas como one to one (um para um) / one to many(um para muitos) e many to one (muitos para um). 
+
+#### Relação um para um 
+Um exemplo pode ser: 
+
+classDiagram
+    class Pessoa {
+        +String nome
+        +String cpf
+    }
+
+    class Passaporte {
+        +String numero
+        +Date dataEmissao
+        +Date validade
+    }
+
+    Pessoa --> Passaporte : "1 possui 1"
+
