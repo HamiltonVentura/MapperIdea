@@ -15,8 +15,7 @@ O @ é interpretado como linhas de orientação para banco de dados e também pa
 As relações entre as classes podem ser definidas como one to one (um para um) / one to many(um para muitos) e many to one (muitos para um). 
 
 #### Relação um para um 
-Um exemplo pode ser: 
-
+Um exemplo pode ser de uma pessoa que possui um passaporte, ou seja a relação é de um para um, pois um passaporte pode ser de apenas uma pessoa e uma pessoa pode ter apenas um passsaporte.
 ```mermaid
 classDiagram
     class Pessoa {
