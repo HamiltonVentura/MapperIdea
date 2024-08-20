@@ -16,20 +16,6 @@ As relações entre as classes podem ser definidas como one to one (um para um) 
 
 #### Relação um para um 
 Um exemplo pode ser de uma pessoa que possui um passaporte, ou seja a relação é de um para um, pois um passaporte pode ser de apenas uma pessoa e uma pessoa pode ter apenas um passsaporte.
-```mermaid
-classDiagram
-    class Pessoa {
-        +String nome
-        +String cpf
-    }
 
-    class Passaporte {
-        +String numero
-        +Date dataEmissao
-        +Date validade
-    }
-
-    Pessoa --> Passaporte : "1 possui 1"
-```
 No mapperidea utilizando o freemind ficaria algo assim: 
 ![exemploum](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/imagens/umparaum.png)
