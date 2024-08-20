@@ -7,7 +7,7 @@
     1. [Pré-Requisitos](#Pré-Requisitos)
     2. [Principais conceitos](#Principais-conceitos-MaperIDea)
 2. [Softwares Utilizados](#SOFTWARES-UTILIZADOS)
-3. [Resultados](#resultados)
+3. [Instalação e uso da ferramenta](#INSTALAÇÃO-E-USO-DA-FERRAMENTA)
 4. [Conclusão](#conclusão)
 5. [Referências](#referências)
 
