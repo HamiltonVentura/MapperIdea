@@ -7,3 +7,5 @@ Perceba os pontos principais dessa classe Carro:
 O ícone class, pode ser utilzado quando a classe não é persistida no banco de dados. 
 Nesse exemplo a classe carro contem os atributos, placa, modelo, cor e ano. Após 
 cada atributo temos as propriedades, podendo ser texto, Inteiro, ou número.
+
+O @ é interpretado como linhas que orientação para banco de dados e também para titulos que podem ser exibidos posteriormente em tela. 
