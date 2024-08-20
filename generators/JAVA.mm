@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1683743080330" ID="ID_124855513" LINK="../br.com.inova.mm" MODIFIED="1685364231554" TEXT="JAVA">
 <icon BUILTIN="element"/>
-<node CREATED="1683718965850" ID="ID_910518139" MODIFIED="1685989926671" POSITION="right" TEXT="domainModelJAVA">
+<node CREATED="1683718965850" ID="ID_910518139" MODIFIED="1724172624062" POSITION="right" TEXT="domainModelJAVA">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -402,7 +402,7 @@
 </node>
 <node CREATED="1683742198461" ID="ID_1006519062" MODIFIED="1685444603565" TEXT="inicializarAtributosConstrutor">
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1683742283041" MODIFIED="1683742625634" TEXT="    this._{{@name }} = {{@name}};">
+<node CREATED="1683742283041" ID="ID_34613087" MODIFIED="1724173020686" TEXT="    this.{{@name }} = {{@name}};">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -426,7 +426,7 @@
 </node>
 <node CREATED="1683748381871" ID="ID_652401629" MODIFIED="1685101376067" TEXT="consoleLogAtributo">
 <icon BUILTIN="element"/>
-<node CREATED="1683748669584" MODIFIED="1683830991961" TEXT="         System.out.println( &apos;{{@name}}:&apos; + this._{{@name}});">
+<node CREATED="1683748669584" ID="ID_190010345" MODIFIED="1724173011004" TEXT="         System.out.println( &apos;{{@name}} :&apos; + this.{{@name}});">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -441,7 +441,7 @@
 <node CREATED="1683808485540" MODIFIED="1684167407527" TEXT="  public set{{  mi:first-upper(@name)}} ({{@name}}) {">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1683808485540" MODIFIED="1683827666128" TEXT="    this._{{@name}} = {{@name}};">
+<node CREATED="1683808485540" ID="ID_446480131" MODIFIED="1724172980852" TEXT="    this.{{@name}} = {{@name}};">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1683808485540" MODIFIED="1683808686279" TEXT="}">
@@ -456,7 +456,7 @@
 <node CREATED="1683808485540" MODIFIED="1684167418625" TEXT=" public  get{{  mi:first-upper(@name)}}(  ) {">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1683808485540" MODIFIED="1683827661756" TEXT="    return this._ {{@name}};">
+<node CREATED="1683808485540" ID="ID_1868438123" MODIFIED="1724172973270" TEXT="    return this. {{@name}};">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1683808485540" MODIFIED="1683808686279" TEXT="}">
@@ -731,7 +731,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1683725801222" FOLDED="true" ID="ID_605264113" MODIFIED="1685732689315" TEXT="mode">
+<node CREATED="1683725801222" ID="ID_605264113" MODIFIED="1724172943193" TEXT="mode">
 <icon BUILTIN="element"/>
 <node COLOR="#ff0000" CREATED="1683725812791" MODIFIED="1684781794487" TEXT="variavelInteiro">
 <icon BUILTIN="tag_green"/>
@@ -756,7 +756,7 @@
 <node COLOR="#999999" CREATED="1684778419687" MODIFIED="1685101379639" TEXT="then">
 <font NAME="SansSerif" SIZE="10"/>
 <icon BUILTIN="element"/>
-<node CREATED="1684780224639" FOLDED="true" MODIFIED="1685101383118" TEXT="write-pattern">
+<node CREATED="1684780224639" ID="ID_879642689" MODIFIED="1724172946810" TEXT="write-pattern">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="element"/>
 <node COLOR="#999999" CREATED="1684777797934" MODIFIED="1684846358529" TEXT="variavelInteiro">
@@ -769,7 +769,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1683725801222" FOLDED="true" ID="ID_146756830" MODIFIED="1685732690475" TEXT="mode">
+<node CREATED="1683725801222" ID="ID_146756830" MODIFIED="1724172948787" TEXT="mode">
 <icon BUILTIN="element"/>
 <node COLOR="#ff0000" CREATED="1683725812791" MODIFIED="1684781796248" TEXT="variavelString">
 <icon BUILTIN="tag_green"/>
@@ -794,7 +794,7 @@
 <node COLOR="#999999" CREATED="1684778419687" MODIFIED="1685101379639" TEXT="then">
 <font NAME="SansSerif" SIZE="10"/>
 <icon BUILTIN="element"/>
-<node CREATED="1684780224639" FOLDED="true" MODIFIED="1685101383118" TEXT="write-pattern">
+<node CREATED="1684780224639" ID="ID_1330727893" MODIFIED="1724172950978" TEXT="write-pattern">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="element"/>
 <node COLOR="#999999" CREATED="1684777797934" MODIFIED="1684780770914" TEXT="variavelString">
@@ -807,7 +807,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1683725801222" FOLDED="true" ID="ID_377697172" MODIFIED="1685732691650" TEXT="mode">
+<node CREATED="1683725801222" ID="ID_377697172" MODIFIED="1724172952560" TEXT="mode">
 <icon BUILTIN="element"/>
 <node COLOR="#ff0000" CREATED="1683725812791" MODIFIED="1684781797302" TEXT="variavelBooleano">
 <icon BUILTIN="tag_green"/>
@@ -832,7 +832,7 @@
 <node COLOR="#999999" CREATED="1684778419687" MODIFIED="1685101379639" TEXT="then">
 <font NAME="SansSerif" SIZE="10"/>
 <icon BUILTIN="element"/>
-<node CREATED="1684780224639" FOLDED="true" MODIFIED="1685101383118" TEXT="write-pattern">
+<node CREATED="1684780224639" ID="ID_1753171192" MODIFIED="1724172959169" TEXT="write-pattern">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="element"/>
 <node COLOR="#999999" CREATED="1684777797934" MODIFIED="1684846350377" TEXT="variavelBooleano">
