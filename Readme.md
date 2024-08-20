@@ -4,7 +4,7 @@
 # Índice
 
 1. [Introdução](#introdução)
-2. [Pré-Requisitos](#Pré-Requisitos)
+    1. [Pré-Requisitos](#Pré-Requisitos)
 3. [Metodologia](#metodologia)
    1. [Ferramentas Utilizadas](#ferramentas-utilizadas)
    2. [Procedimentos](#procedimentos)
