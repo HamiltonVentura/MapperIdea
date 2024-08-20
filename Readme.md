@@ -8,7 +8,7 @@
     2. [Principais conceitos](#Principais-conceitos-MaperIDea)
 2. [Softwares Utilizados](#SOFTWARES-UTILIZADOS)
 3. [Instalação e uso da ferramenta](#INSTALAÇÃO-E-USO-DA-FERRAMENTA)
-4. [Construção de mapa](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/construcao.md)
+4. [Classes e atributos](#Classes-e-atributos)
 5. [Referências](#referências)
 
 7. 
@@ -147,7 +147,27 @@ O ícone one-to-one indica que existe a relação um para um. Por exemplo classe
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/element.png)
 O ícone element é utilizado para diversas indicações, mas principalmente com palavras chaves do Mapperidea e em momentos como descritivos de algumas funcionalidade. **alt+e**
 
-[Construção de mapa simples](/construcao.md)
+## Classes e atributos
+
+Para iniciar vamos utilizar os icones de pacote, definindo o nó com o nome "peso" e um sub nó que conterá as classes domainTeste
+![exemplo mapa](/imagens/classe.png)
+
+Perceba os pontos principais dessa classe Carro: 
+O ícone class, pode ser utilzado quando a classe não é persistida no banco de dados. 
+Nesse exemplo a classe carro contem os atributos, placa, modelo, cor e ano. Após 
+cada atributo temos as propriedades, podendo ser texto, Inteiro, ou número.
+
+O @ é interpretado como linhas de orientação para banco de dados e também para titulos que podem ser exibidos posteriormente em tela. 
+
+## Relação entre classes 
+
+As relações entre as classes podem ser definidas como one to one (um para um) / one to many(um para muitos) e many to one (muitos para um). 
+
+#### Relação um para um 
+Um exemplo pode ser de uma pessoa que possui um passaporte, ou seja a relação é de um para um, pois um passaporte pode ser de apenas uma pessoa e uma pessoa pode ter apenas um passsaporte.
+
+No mapperidea utilizando o freemind ficaria algo assim: 
+![exemploum](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/imagens/umparaum.png)
 
 
 
