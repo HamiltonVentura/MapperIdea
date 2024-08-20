@@ -1,4 +1,4 @@
-### Exemplo de mapa mental no freemind: Classes e atributos
+## Exemplo de mapa mental no freemind: Classes e atributos
 
 Para iniciar vamos utilizar os icones de pacote, definindo o nó com o nome "peso" e um sub nó que conterá as classes domainTeste
 ![exemplo mapa](/imagens/classe.png)
@@ -9,3 +9,7 @@ Nesse exemplo a classe carro contem os atributos, placa, modelo, cor e ano. Apó
 cada atributo temos as propriedades, podendo ser texto, Inteiro, ou número.
 
 O @ é interpretado como linhas de orientação para banco de dados e também para titulos que podem ser exibidos posteriormente em tela. 
+
+## Relação entre classes 
+
+As relações entre as classes podem ser definidas como one to one (um para um) / one to many(um para muitos) e many to one (muitos para um). 
