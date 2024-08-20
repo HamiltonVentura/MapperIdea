@@ -31,3 +31,4 @@ classDiagram
 
     Pessoa --> Passaporte : "1 possui 1"
 ```
+No mapperidea utilizando o freemind ficaria algo assim: 
