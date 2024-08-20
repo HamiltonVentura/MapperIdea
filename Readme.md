@@ -71,8 +71,7 @@ A idéia principal é após mapeamento do código da arquitetura, alterar apenas
 
 
 ## INSTALAÇÃO E USO DA FERRAMENTA
-
-- Instalar antes o node versão 12
+#### Instalar antes o node versão 12
   **Para Linux**
 ~~~bash
 sudo apt install npm
