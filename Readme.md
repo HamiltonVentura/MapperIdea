@@ -77,9 +77,9 @@ A idéia principal é após mapeamento do código da arquitetura, alterar apenas
 ~~~bash
 sudo apt install npm
 ~~~
-
+**para wuindows**
 ~~~bash
-choco install npm
+choco install nodejs-lts --version=14.17.6
 ~~~
 
 ~~~bash
