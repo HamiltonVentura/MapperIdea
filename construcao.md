@@ -17,6 +17,7 @@ As relações entre as classes podem ser definidas como one to one (um para um) 
 #### Relação um para um 
 Um exemplo pode ser: 
 
+```mermaid
 classDiagram
     class Pessoa {
         +String nome
@@ -30,4 +31,4 @@ classDiagram
     }
 
     Pessoa --> Passaporte : "1 possui 1"
-
+```
