@@ -31,20 +31,31 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 > os quais poderão se alterados atualizados uma vez montados, sem necessidade de alterar código "na unha".
 
 Após efetuar os mapeamentos, é necessário executar via linha de comando a geração de códigos, que é uma conversão do codigo mapeado em codigos práticos.
+A baixo é uma ilustração de como é o processo de criação dos mapas.
 
 ```mermaid
 flowchart LR
-    Mapeamento ---> Gerar-Codigo ---> Opcional ---> ShellScript;
-    Opcional --> BatchScript;
-    Gerar-Codigo ---> Regra-de-negocio;
-    Regra-de-negocio --->Arquitetura;
-Arquitetura;
+    Gerar-mapa --> Arquitetura
+    Gerar-mapa ---> Regra-de-negocio;
+    Regra-de-negocio --> Mapas-Mentais-Freemind;
+    Mapas-Mentais-Freemind --> Classes-atributos;
+    Mapas-Mentais-Freemind --> funções;
+    Mapas-Mentais-Freemind --> pacotes;
     Arquitetura --->PHP;
     Arquitetura --->JAVA;
     Arquitetura --->Html;
-    Arquitetura --->JAVASCRIPT
-     
+    Arquitetura --->JAVASCRIPT;     
 ```
+O fluxo de utilização dos mapas mentais funciona da seguinte forma, O Mapperidea utiliza o código gerado pelos mapas mentais, sobe para o servidor essas informações, e como retorno ele traz o código escrito na arquitetura escolhida que foi construida.
+
+```mermaid
+flowchart LR
+    sobe-mapa-regras-de-negócio --> servidor;
+    sobe-mapa-da-arquitetura --> servidor;
+    servidor --> retorna-código-escrito;   
+```
+A idéia principal é após mapeamento do código da arquitetura, alterar apenas os mapas mentais de regra de negócio, automatizando assim os processos referentes a codificação do sistema em construção ou alteração.
+
 
 
 ### INSTALAÇÃO E USO DA FERRAMENTA
