@@ -7,11 +7,9 @@
     1. [Pré-Requisitos](#Pré-Requisitos)
     2. [Principais conceitos](#Principais-conceitos-MaperIDea)
 2. [Softwares Utilizados](#SOFTWARES-UTILIZADOS)
-   1. [Ferramentas Utilizadas](#ferramentas-utilizadas)
-   2. [Procedimentos](#procedimentos)
-4. [Resultados](#resultados)
-5. [Conclusão](#conclusão)
-6. [Referências](#referências)
+3. [Resultados](#resultados)
+4. [Conclusão](#conclusão)
+5. [Referências](#referências)
 
 7. 
 ## Introdução
@@ -37,7 +35,7 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 > 2 - O [[XPATH - Básico|Xpath]] é essência para utilização do MI (MapperIdea) , através dele é possível correr os documentos XML. 
 > 3 - O conceito de [[XQUERY]] facilita o entendimento da aplicação das funções dentro de Mapperidea.
 
-### SOFTWARES UTILIZADOS 
+## SOFTWARES UTILIZADOS 
 - NODE 12 
 - Freemind 1.0 + pacote de icones 
 
@@ -72,9 +70,15 @@ A idéia principal é após mapeamento do código da arquitetura, alterar apenas
 
 
 
-### INSTALAÇÃO E USO DA FERRAMENTA
+## INSTALAÇÃO E USO DA FERRAMENTA
 
-- Instalar antes o node versão 12 
+- Instalar antes o node versão 12
+  **Para Linux**
+~~~bash
+sudo apt install npm 
+
+~~~bash
+choco install npm 
 
 ~~~bash
 npm install mapperidea-cli -g
