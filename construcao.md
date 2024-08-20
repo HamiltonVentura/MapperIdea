@@ -1,4 +1,4 @@
-### Exemplo de mapa mental no freemind
+### Exemplo de mapa mental no freemind: Classes e atributos
 
 Para iniciar vamos utilizar os icones de pacote, definindo o nó com o nome "peso" e um sub nó que conterá as classes domainTeste
 ![exemplo mapa](/imagens/classe.png)
