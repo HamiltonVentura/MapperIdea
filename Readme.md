@@ -75,10 +75,12 @@ A idéia principal é após mapeamento do código da arquitetura, alterar apenas
 - Instalar antes o node versão 12
   **Para Linux**
 ~~~bash
-sudo apt install npm 
+sudo apt install npm
+~~~
 
 ~~~bash
-choco install npm 
+choco install npm
+~~~
 
 ~~~bash
 npm install mapperidea-cli -g
