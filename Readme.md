@@ -146,7 +146,8 @@ O ícone one-to-one indica que existe a relação um para um. Por exemplo classe
 ![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/element.png)
 O ícone element é utilizado para diversas indicações, mas principalmente com palavras chaves do Mapperidea e em momentos como descritivos de algumas funcionalidade. **alt+e**
 
-
-
-Indices
 [Construção de mapa simples](/construcao.md)
+
+
+
+
