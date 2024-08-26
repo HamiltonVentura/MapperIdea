@@ -46,3 +46,17 @@ style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
 style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
+### start
+São os padrões, o código que será escrito literalemente.
+
+ ```mermaid
+flowchart LR
+     JAVA --> domainModelJAVA;
+     domainModelJAVA --> patterns;
+     patterns --> padraoIncio;
+     patterns --> padraoFim;
+     padraoIncio --> B["{"];
+     padraoFim --> F["}"];
+style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
+style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
+```
