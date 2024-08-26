@@ -42,5 +42,7 @@ flowchart LR
      patterns --> padraoFim;
      padraoIncio --> B["{"];
      padraoFim --> F["}"];
+style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
+style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
