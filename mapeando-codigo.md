@@ -64,3 +64,5 @@ flowchart LR
 style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
 style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
+
+A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
