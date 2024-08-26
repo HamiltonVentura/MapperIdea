@@ -9,4 +9,15 @@ flowchart LR
     mapperidea --> generators;
    
 ```
-aṕos os **generatorns**
+aṕos os **generators** pode se criar o nome dos geradores que o usuário esteja produzindo, exemṕlo:
+
+```mermaid
+    flowchart LR
+        config --> mapperidea;
+        mapperidea --> generators;
+        generators --> JAVA;
+        generators --> jsonServer;
+        JAVA --> JasvaDomainModel;
+        jsonServer --> dbJson;  
+```
+
