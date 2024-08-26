@@ -39,7 +39,7 @@ flowchart LR
      JAVA --> domainModelJAVA;
      domainModelJAVA --> patterns;
      patterns --> padraoIncio;
-     padraoInicio --> B ["class pessoa"];
+     padraoInicio --> B["class pessoa"];
 ```
 
 
