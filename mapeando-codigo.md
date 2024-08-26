@@ -13,6 +13,7 @@ Aṕos os **generators** pode se criar o nome dos geradores que o usuário estej
 
 ```mermaid
     flowchart LR
+        br.com.projeto --> mapperidea
         config --> mapperidea;
         mapperidea --> generators;
         generators --> JAVA;
