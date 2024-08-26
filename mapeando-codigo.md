@@ -31,7 +31,7 @@ COnhecer a estrutura de código é enssencial para mapear com eficiência.
 
 ## Estrutura e mapeamento (geradores)
 
-### patterns
+### patterns e start
 São os padrões, o código que será escrito literalemente.
 
  ```mermaid
