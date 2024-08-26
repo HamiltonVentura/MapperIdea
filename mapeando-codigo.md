@@ -66,7 +66,9 @@ style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
 A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
+os retangulos que estãod e verde devem contar a tag green antes no nome através da tecla de atalho **alt + v**
+e icone de <> deve pode ser inserido através das teclas de atalho **alt + e** 
 
-![image](https://github.com/user-attachments/assets/69d0eba0-890e-4ca5-abbf-2c7d957baea4)
+![image](https://github.com/user-attachments/assets/32a2c3c6-4ba9-4483-b470-1aca605611c0)
 
 
