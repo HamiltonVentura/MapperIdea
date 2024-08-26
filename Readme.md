@@ -9,9 +9,9 @@
 2. [Softwares Utilizados](#SOFTWARES-UTILIZADOS)
 3. [Instalação e uso da ferramenta](#INSTALAÇÃO-E-USO-DA-FERRAMENTA)
 4. [Classes e atributos](#Classes-e-atributos)
-5. [Referências](#referências)
+5. [Mapeando Códigos](#Mapeando-Códigos)
+6. [Referências](#referências)
 
-7. 
 ## Introdução
 
 MapperIdea é uma ferramenta que automatiza a geração de código em conjunto com o Freemind, uma ferramenta de mapas mentais. Usando MapperIdea, é possível converter mapas mentais em código, o que facilita o desenvolvimento de software e aproxima os stakeholders do projeto, tornando a colaboração mais eficiente e compreensível para todos os envolvidos.
