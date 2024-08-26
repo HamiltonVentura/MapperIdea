@@ -55,10 +55,12 @@ flowchart LR
      domainModelJAVA --> patterns;
      patterns --> padraoIncio;
      patterns --> padraoFim;
+     patterns --> start;
      padraoIncio --> B["{"];
      padraoFim --> F["}"];
-     start --> match
+     start --> match --> classes
      start --> body
+     body --> write-pattern --> padrraoInicio;
 style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
 style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
