@@ -35,8 +35,8 @@ COnhecer a estrutura de código é enssencial para mapear com eficiência.
 São os padrões, o código que será escrito literalemente.
 
  ```mermaid
-flowchart TD
-    A["Fulano"] --> B["Bel Trano"]
+flowchart LF
+    A["</>config"] --> B["</>mapperidea"]
 ```
 
 
