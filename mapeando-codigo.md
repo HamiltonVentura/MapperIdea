@@ -14,12 +14,12 @@ Aṕos os **generators** pode se criar o nome dos geradores que o usuário estej
 ```mermaid
     flowchart LR
         br.com.projeto --> config
-        config --> "<>mapperidea";
-        "<>mapperidea" --> "<>generators";
-        "<>generators" --> "<>JAVA";
-        "<>generators" --> "<>jsonServer";
-        "<>JAVA" --> "<>JavaDomainModel";
-        "<>jsonServer" --> "<>dbJson";
+        config --> mapperidea;
+        mapperidea --> generators;
+        generators --> JAVA;
+        generators --> jsonServer;
+        JAVA --> JavaDomainModel;
+        jsonServer --> dbJson;
 
 style JAVA fill:#9f6,stroke:#333,stroke-width:2px;
 style jsonServer fill:#9f6,stroke:#333,stroke-width:2px;
