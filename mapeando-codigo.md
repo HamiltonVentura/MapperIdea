@@ -34,6 +34,10 @@ COnhecer a estrutura de código é enssencial para mapear com eficiência.
 ### patterns
 São os padrões, o código que será escrito literalemente.
 
- 
+ ```mermaid
+flowchart TD
+    "Código &lt;/&gt;" --> "Compilador";
+    "Compilador" --> "Execução";
+```
 
 
