@@ -66,3 +66,24 @@ style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
 A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
+
+```dot
+digraph G {
+    rankdir=LR;  // Define a orientação da esquerda para a direita
+    node [shape=rectangle, style=filled, fillcolor="#ffffff"];  // Define o estilo padrão dos nós
+
+    JAVA -> domainModelJAVA;
+    domainModelJAVA -> patterns;
+    patterns -> padraoIncio;
+    patterns -> padraoFim;
+    patterns -> start;
+    padraoIncio -> B [label="{", style=filled, fillcolor="#9f6", color="#333", fontcolor="#333"];
+    padraoFim -> F [label="}", style=filled, fillcolor="#9f6", color="#333", fontcolor="#333"];
+    start -> match -> classes;
+    start -> body;
+    body -> write-pattern -> padrraoInicio;
+
+    // Definindo estilos adicionais para nós específicos, se necessário
+    // Adapte conforme o design desejado
+}
+```
