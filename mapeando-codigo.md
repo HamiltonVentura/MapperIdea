@@ -67,8 +67,7 @@ style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 
 A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
 
-```dot
-digraph G {
+```digraph G {
     rankdir=LR;  // Define a orientação da esquerda para a direita
     node [shape=rectangle, style=filled, fillcolor="#ffffff"];  // Define o estilo padrão dos nós
 
