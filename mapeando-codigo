@@ -1,5 +1,6 @@
 
-Para mapear códigos é necessário primeiramentes criar nós com as palavras chaves. 
+Para mapear códigos é necessário primeiramentes criar nós com as palavras chaves. Lembrese de adicionar a tag element em cada palavra.
+**alt + e**
 
 
 ```mermaid
