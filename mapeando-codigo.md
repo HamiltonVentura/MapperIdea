@@ -27,3 +27,5 @@ style JavaDomainModel fill:#9f6,stroke:#333,stroke-width:2px;
 style dbJson fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
+COnhecer a estrutura de código é enssencial para mapear com eficiência. Observe o exemplo pronto.
+
