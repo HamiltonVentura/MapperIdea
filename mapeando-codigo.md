@@ -36,7 +36,8 @@ São os padrões, o código que será escrito literalemente.
 
  ```mermaid
 flowchart LF
-      A["&lt;&gt; config"] --> B["&lt;&gt; mapperidea"]
+     JAVA --> domainModelJAVA;
+     domainModelJAVA -- start;
 ```
 
 
