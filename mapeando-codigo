@@ -2,5 +2,7 @@
 Para mapear códigos é necessário primeiramentes criar nós com as palavras chaves. 
 
 ```mermaid 
-config -> mapperidea -> generators
+graph TD
+    config --> mapperidea --> generators
+
 ``` 
