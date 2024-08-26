@@ -42,4 +42,8 @@ flowchart LR
      padraoInicio --> B["class pessoa"];
 ```
 
+ <div class="mermaid">
+      flowchart TD
+        A["&lt;&gt; config"] --> B["&lt;&gt; mapperidea"]
+    </div>
 
