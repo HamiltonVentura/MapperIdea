@@ -17,9 +17,12 @@ aṕos os **generators** pode se criar o nome dos geradores que o usuário estej
         mapperidea --> generators;
         generators --> JAVA;
         generators --> jsonServer;
-        JAVA --> JasvaDomainModel;
+        JAVA --> JavaDomainModel;
         jsonServer --> dbJson;
 
 style JAVA fill:#9f6,stroke:#333,stroke-width:2px;
+style jsonServer fill:#9f6,stroke:#333,stroke-width:2px;
+style JasvaDomainModel fill:#9f6,stroke:#333,stroke-width:2px;
+style dbJson fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
