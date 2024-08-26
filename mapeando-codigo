@@ -3,7 +3,5 @@ Para mapear códigos é necessário primeiramentes criar nós com as palavras ch
 
 ```mermaid
  flowchart LR
-   config --> mapperidea;
-   mapperidea --> generators;
-
+config-->mapperidea-->generators;
 ```
