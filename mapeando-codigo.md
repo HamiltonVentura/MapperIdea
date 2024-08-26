@@ -39,11 +39,6 @@ flowchart LR
      JAVA --> domainModelJAVA;
      domainModelJAVA --> patterns;
      patterns --> padraoIncio;
-     padraoInicio --> B["class pessoa"];
+     padraoIncio --> B["class pessoa"];
 ```
-
- <div class="mermaid">
-      flowchart TD
-        A["&lt;&gt; config"] --> B["&lt;&gt; mapperidea"]
-    </div>
 
