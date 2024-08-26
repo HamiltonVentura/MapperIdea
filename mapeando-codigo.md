@@ -37,7 +37,9 @@ São os padrões, o código que será escrito literalemente.
  ```mermaid
 flowchart LR
      JAVA --> domainModelJAVA;
-     domainModelJAVA --> start;
+     domainModelJAVA --> patterns;
+     patterns --> padraoIncio;
+     padraoInicio --> B ["class pessoa {"];
 ```
 
 
