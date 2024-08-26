@@ -37,7 +37,7 @@ São os padrões, o código que será escrito literalemente.
  ```mermaid
 flowchart LF
      JAVA --> domainModelJAVA;
-     domainModelJAVA -- start;
+     domainModelJAVA --> start;
 ```
 
 
