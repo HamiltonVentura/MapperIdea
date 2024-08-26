@@ -29,5 +29,17 @@ style dbJson fill:#9f6,stroke:#333,stroke-width:2px;
 
 COnhecer a estrutura de código é enssencial para mapear com eficiência.
 
+## Estrutura e mapeamento (geradores)
+
+### patterns
+São os padrões, o código que será escrito literalemente.
+```mermaid
+flowchart LR
+    codigoInicio --> "class nome {";
+    mapperidea --> generators;
+   
+```
+
 ### 
+
 
