@@ -1,7 +1,17 @@
 
 Para mapear códigos é necessário primeiramentes criar nós com as palavras chaves. 
 
+
 ```mermaid
- flowchart LR
-config-->mapperidea-->generators;
+flowchart LR
+    Gerar-mapa --> Arquitetura  
+    Mapas-Mentais-Freemind -->Regra-de-negocio;
+    Mapas-Mentais-Freemind --> Gerar-mapa;
+    Regra-de-negocio --> Classes-atributos;
+    Regra-de-negocio --> funções;
+    Regra-de-negocio --> pacotes;
+    Arquitetura --->PHP;
+    Arquitetura --->JAVA;
+    Arquitetura --->Html;
+    Arquitetura --->JAVASCRIPT;     
 ```
