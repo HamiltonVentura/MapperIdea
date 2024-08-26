@@ -35,8 +35,8 @@ COnhecer a estrutura de código é enssencial para mapear com eficiência.
 São os padrões, o código que será escrito literalemente.
 ```mermaid
 flowchart LR
-    "codigoInicio" --> "class nome {";
-    mapperidea --> generators;
+    "codigoInicio" -> "class nome {";
+
    
 ```
 
