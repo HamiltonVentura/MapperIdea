@@ -36,7 +36,7 @@ São os padrões, o código que será escrito literalemente.
 
  ```mermaid
 flowchart TD
-fulano --> "bel trano"
+    A["Fulano"] --> B["Bel Trano"]
 ```
 
 
