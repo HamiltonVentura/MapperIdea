@@ -67,5 +67,6 @@ style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 
 A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
 
-![image](https://github.com/user-attachments/assets/2b24727c-e4ac-44d3-b63e-912881a99fef)
+![image](https://github.com/user-attachments/assets/69d0eba0-890e-4ca5-abbf-2c7d957baea4)
+
 
