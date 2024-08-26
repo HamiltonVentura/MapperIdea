@@ -36,8 +36,8 @@ São os padrões, o código que será escrito literalemente.
 
  ```mermaid
 flowchart TD
-    "Código &lt;/&gt;" --> "Compilador";
-    "Compilador" --> "Execução";
+    'Código &lt;/&gt;' --> 'Compilador';
+    'Compilador' --> 'Execução';
 ```
 
 
