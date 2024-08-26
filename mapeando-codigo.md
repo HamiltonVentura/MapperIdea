@@ -36,7 +36,7 @@ São os padrões, o código que será escrito literalemente.
 
  ```mermaid
 flowchart LF
-    A["</>config"] --> B["</>mapperidea"]
+    A["<>config"] --> B["<>mapperidea"]
 ```
 
 
