@@ -39,6 +39,8 @@ flowchart LR
      JAVA --> domainModelJAVA;
      domainModelJAVA --> patterns;
      patterns --> padraoIncio;
+     patterns --> padraoFim;
      padraoIncio --> B["{"];
+     padraoFim --> F["}"];
 ```
 
