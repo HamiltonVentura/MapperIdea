@@ -29,8 +29,7 @@
       -
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="element"/>
 <node COLOR="#ff0000" CREATED="1683719711442" ID="ID_1387363244" MODIFIED="1684928427043" TEXT="parameters">
 <richcontent TYPE="NOTE"><html>
@@ -91,7 +90,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1683720089218" FOLDED="true" ID="ID_1327771292" MODIFIED="1685733517822" TEXT="body">
+<node CREATED="1683720089218" ID="ID_1327771292" MODIFIED="1724175622274" TEXT="body">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -112,7 +111,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="element"/>
-<node COLOR="#338800" CREATED="1683720116634" FOLDED="true" ID="ID_1677868887" MODIFIED="1685443189615" TEXT="write-pattern">
+<node COLOR="#338800" CREATED="1683720116634" FOLDED="true" ID="ID_1677868887" MODIFIED="1724175636113" TEXT="write-pattern">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -304,7 +303,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#338800" CREATED="1683720319241" MODIFIED="1684928480082" TEXT="write-pattern">
+<node COLOR="#338800" CREATED="1683720319241" ID="ID_858690427" MODIFIED="1684928480082" TEXT="write-pattern">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -323,7 +322,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1683720663481" ID="ID_1739758813" MODIFIED="1685989698333" TEXT="patterns">
+<node CREATED="1683720663481" FOLDED="true" ID="ID_1739758813" MODIFIED="1724175617842" TEXT="patterns">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -336,7 +335,8 @@
       ser&#225; chamado no start
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="11"/>
 <icon BUILTIN="element"/>
 <node CREATED="1685733226062" ID="ID_603308185" MODIFIED="1685733256042" TEXT="importacoes">
