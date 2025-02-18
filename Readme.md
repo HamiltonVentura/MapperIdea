@@ -169,6 +169,12 @@ Um exemplo pode ser de uma pessoa que possui um passaporte, ou seja a relação 
 No mapperidea utilizando o freemind ficaria algo assim: 
 ![exemploum](https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/imagens/umparaum.png)
 
+Pontos positivos e negativos da Ferramentas. 
 
+Positivo: a ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
-
+Negativos: 
+1 - Versão do node desatualizada (até o momento que escrevi estamos na versão 22 mas usa a versão 14)
+2 - Versão do freemind/freemapper roda apenas com Java 8, tem que utilizar o SDK manager para usar a versão antiga do Java. 
+3 - Tempo de construção da arquitetura muito elevados. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações as vezes da ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
+4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.
