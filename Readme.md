@@ -254,5 +254,8 @@ A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, lev
 <br>
 3 - Tempo de construção da arquitetura muito elevados. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações as vezes da ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
 <br>4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.<br>
-5 - Padrões contra intuitivos 
+5 - Arquivos se corrompem com facilidade.( só usar versionamento, mas não deixa de ser um ponto negativo).
+<br> 6 - Pouca documentação de apoio. 
 
+### Conclusão:
+Tenho como formação Análise e Desenvolvimento de Sistema, meu perfil não é la dos programadores mais focados, mas se a proposta é que seja algo que proxime pessoas inesperientes da programação, no meu caso falhou. Gostei da ideia da automação de ações no desenvolvimento de software, utilizei python para fazer várias automações e é bem interessante, com poucas linhas de código ja é possivel fazer muita coisa, pelo menos na minha opinião não consegui enxergar um caminho facilitador no desenvolvimento de software ao utilizar essa ferramenta. Como comentei anteriormente me parece ser uma opção para softwares legados, não para softwares que estão no inicio não e a possibilidade de mudança é alta. 
