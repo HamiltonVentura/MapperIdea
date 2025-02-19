@@ -236,7 +236,7 @@ style padraoIncio fill:#9f6,stroke:#333,stroke-width:2px;
 style padraoFim fill:#9f6,stroke:#333,stroke-width:2px;
 ```
 
-A princípio é facil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
+A princípio é fácil gerar os códigos dessa forma, em um lado colocamos o código como deve ser escrito, no caso com o nó patterns, e em seguida adicionamos a sequencia no start denro do do body com a palara chave write pattern.
 os retangulos que estãod e verde devem contar a tag green antes no nome através da tecla de atalho **alt + v**
 e icone de <> deve pode ser inserido através das teclas de atalho **alt + e** 
 
@@ -244,14 +244,15 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 ## Pontos positivos e negativos da Ferramentas. ##
 
-# Positivo: 
+### Positivo: 
 
 a ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
-# Negativos: 
+### Negativos: 
 1 - Versão do node desatualizada (até o momento que escrevi estamos na versão 22 mas usa a versão 14)<br>
 2 - Versão do freemind/freemapper roda apenas com Java 8, tem que utilizar o SDK manager para usar a versão antiga do Java. 
+<br>
 3 - Tempo de construção da arquitetura muito elevados. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações as vezes da ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
-4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.
+<br>4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.<br>
 5 - Padrões confusos ou deixados tão em aberto que torna tudo contra intuitivo.
 
