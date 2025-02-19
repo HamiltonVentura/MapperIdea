@@ -246,7 +246,7 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 ### Positivo: 
 
-a ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
+A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
 ### Negativos: 
 1 - Versão do node desatualizada (até o momento que escrevi estamos na versão 22 mas usa a versão 14)<br>
