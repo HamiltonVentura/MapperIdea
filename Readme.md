@@ -254,5 +254,5 @@ A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, lev
 <br>
 3 - Tempo de construção da arquitetura muito elevados. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações as vezes da ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
 <br>4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.<br>
-5 - Padrões confusos ou deixados tão em aberto que torna tudo contra intuitivo.
+5 - Padrões contra intuitivos 
 
