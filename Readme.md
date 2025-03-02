@@ -246,26 +246,14 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 ### Positivo: 
 
+####1 - Versatilidade para automação de códigos legados.
 A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
-```mermaid
-flowchart LR
-    A[Desenvolvedor] -->|Conhecimento em| B[Java];
-    A -->|Conhecimento em| C[PostgreSQL];
-    A -->|Conhecimento em| D[HTML, CSS, Tailwind];
+####2 - Simplicidade no Comando de linhas.
+São poucos comandos de linha no prompt para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos.
 
-    A -->|Pega código do sistema legado| E[Análise do Código];
-    E --> F[Mapeia Procedimentos];
-    F --> G[Modela em Mapa Mental];
-    G --> H[Automatiza Geração de Implementações];
-
-    H -->|Utilizando MapperIdea| I[Geração código];
-    H -->|Utilizando ShellScript| J[Automatiza funções CLI];
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px;
-    style I fill:#bbf,stroke:#333,stroke-width:2px;
-
-   
+####3 - Iconografia Bem definida.
+A iconografia com base nos cursos dados pela mapperidea deixa definido alguns padrões visuais que facilitam o entendimento.
 ```
 
 ### Negativos: 
