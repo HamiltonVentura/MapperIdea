@@ -291,6 +291,6 @@ flowchart LR
 
     H -->|"class nomeClasse {"| M[ ]
     K --> N[write-pattern]
-    N --> O[/classes]
+    N --> O[classes]
     N --> P[padraoInicio]
 
