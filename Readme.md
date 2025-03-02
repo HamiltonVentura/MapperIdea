@@ -274,7 +274,7 @@ Em diversas situações meus arquivos corromperam, apesar de fazer commits com f
 #### 6 Pouca documentação de apoio.
 Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas auxentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento de forma mais ampla.    
 
-´´´ḿermaid
+```mermaid
 graph LR
     A[br.com.projeto] --> B[config]
     B --> C[mapperidea]
@@ -289,9 +289,8 @@ graph LR
     G --> K[start]
     G --> L[match]
 
-    H -->|class nomeClasse {| M[ ]
+    H -->|"class nomeClasse {"| M[ ]
     K --> N[write-pattern]
     N --> O[/classes]
     N --> P[padraoInicio]
 ´´´
-
