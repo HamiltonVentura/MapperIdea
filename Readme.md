@@ -248,6 +248,25 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
+```mermaid
+flowchart LR
+    A[Desenvolvedor] -->|Conhecimento em| B[Java];
+    A -->|Conhecimento em| C[PostgreSQL];
+    A -->|Conhecimento em| D[HTML, CSS, Tailwind];
+
+    A -->|Pega código do sistema legado| E[Análise do Código];
+    E --> F[Mapeia Procedimentos];
+    F --> G[Modela em Mapa Mental];
+    G --> H[Automatiza Geração de Implementações];
+
+    H -->|Envia para| I[GitHub];
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px;
+    style I fill:#bbf,stroke:#333,stroke-width:2px;
+
+   
+```
+
 ### Negativos: 
 1 - Versão do node desatualizada (até o momento que escrevi estamos na versão 22 mas usa a versão 14)<br>
 2 - Versão do freemind/freemapper roda apenas com Java 8, tem que utilizar o SDK manager para usar a versão antiga do Java. 
