@@ -246,24 +246,35 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 ### Positivo: 
 
-#### 1 - Versatilidade para automação de códigos legados.
+#### 1 - Útil para automação de códigos legados.
 A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
 
 #### 2 - Simplicidade no Comando de linhas.
-São poucos comandos de linha no prompt para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos.
+São poucos comandos de linha no terminal para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos por linha de comando
 
 #### 3 - Iconografia Bem definida.
-A iconografia com base nos cursos dados pela mapperidea deixa definido alguns padrões visuais que facilitam o entendimento.
+A iconografia com base nos cursos dados pela mapperidea deixa definido alguns padrões visuais que facilitam o entendimento deixando também em aberto a possibilidade de seguir os pŕoprios padrões.
+
+### 4 - Documentação de funções
+A documentação de funções xpath, mi e xquery, o que facilita nas consultas.
 ```
 
-### Negativos: 
-1 - Versão do node desatualizada (até o momento que escrevi estamos na versão 22 mas usa a versão 14)<br>
-2 - Versão do freemind/freemapper roda apenas com Java 8, tem que utilizar o SDK manager para usar a versão antiga do Java. 
-<br>
-3 - Tempo de construção da arquitetura muito elevados. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações as vezes da ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
-<br>4 - Falta de um mapeamento reverso, ou seja pegar uma classe e converter automaticamente em mapa mental em vez de fazer manualmente.<br>
-5 - Arquivos se corrompem com facilidade.( só usar versionamento, mas não deixa de ser um ponto negativo).
-<br> 6 - Pouca documentação de apoio. 
+### Negativos:
+ 
+#### 1 - Ferramentas desatualizadas
+Exemplo do Node, e o Freemind, ferramentas que exigem versões mais antigas.
 
-### Conclusão:
-Tenho como formação Análise e Desenvolvimento de Sistema, meu perfil não é la dos programadores mais focados, mas se a proposta é que seja algo que aproxime pessoas inexperientes da programação, no meu caso falhou. Gostei da idéia da automação de ações no desenvolvimento de software, utilizei python para fazer várias automações e é bem interessante, com poucas linhas de código ja é possivel fazer muita coisa, pelo menos na minha opinião não consegui enxergar um caminho facilitador no desenvolvimento de software ao utilizar essa ferramenta. Como comentei anteriormente me parece ser uma opção para softwares legados, não para softwares que estão no inicio não e a possibilidade de mudança é alta. 
+#### 3 - Tempo de construção da arquitetura muito elevados.
+Na minha experiência tive que modelar um software desde o fundamento. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações, muitas vezes na ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
+
+### 4 - Ausência de um mapeamento reverso
+Ao se trabalhar com a ferramenta percebi que se a ideia é automatizar tudo, por que não subir a classe e mapeala automaticamente?
+Senti dificuldade de ferramentas que facilitasem um pouco mais as coisas.
+
+### 5 -Arquivos se corrompem com facilidade.
+Em diversas situações meus arquivos corromperam, apesar de fazer commits com frequência, acabei perdendo alterações importantes que fiz em lote
+
+### 6 -Pouca documentação de apoio.
+Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas auxentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento de forma mais ampla.    
+
+
