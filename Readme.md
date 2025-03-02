@@ -259,22 +259,22 @@ A iconografia com base nos cursos dados pela mapperidea deixa definido alguns pa
 A documentação de funções xpath, mi e xquery, o que facilita nas consultas.
 ```
 
-### Negativos:
+### Negativos: 
  
-#### 1 - Ferramentas desatualizadas
+#### 1  Ferramentas desatualizadas
 Exemplo do Node, e o Freemind, ferramentas que exigem versões mais antigas.
 
-#### 3 - Tempo de construção da arquitetura muito elevados.
+#### 3  Tempo de construção da arquitetura muito elevados.
 Na minha experiência tive que modelar um software desde o fundamento. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações, muitas vezes na ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
 
-### 4 - Ausência de um mapeamento reverso
+### 4  Ausência de um mapeamento reverso
 Ao se trabalhar com a ferramenta percebi que se a ideia é automatizar tudo, por que não subir a classe e mapeala automaticamente?
 Senti dificuldade de ferramentas que facilitasem um pouco mais as coisas.
 
-### 5 -Arquivos se corrompem com facilidade.
+### 5 Arquivos se corrompem com facilidade.
 Em diversas situações meus arquivos corromperam, apesar de fazer commits com frequência, acabei perdendo alterações importantes que fiz em lote
 
-### 6 -Pouca documentação de apoio.
+### 6 Pouca documentação de apoio.
 Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas auxentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento de forma mais ampla.    
 
 
