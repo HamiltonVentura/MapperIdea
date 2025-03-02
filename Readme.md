@@ -248,16 +248,13 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 #### 1 - Útil para automação de códigos legados.
 A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
-
 #### 2 - Simplicidade no Comando de linhas.
-São poucos comandos de linha no terminal para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos por linha de comando
-
+São poucos comandos de linha no terminal para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos por linha de comando.
 #### 3 - Iconografia Bem definida.
 A iconografia com base nos cursos dados pela mapperidea deixa definido alguns padrões visuais que facilitam o entendimento deixando também em aberto a possibilidade de seguir os pŕoprios padrões.
-
 ### 4 - Documentação de funções
 A documentação de funções xpath, mi e xquery, o que facilita nas consultas.
-```
+
 
 ### Negativos: 
  
