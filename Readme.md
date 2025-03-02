@@ -253,7 +253,8 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 
 
 ## Exemplo
-![gif](https://github.com/HamiltonVentura/MapperIdea-Java/imagens/geracaoex1.gif)
+![gif](https://github.com/HamiltonVentura/MapperIdea/imagens/geracaoex1.gif)
+z
 ## Pontos positivos e negativos da Ferramentas. ##
 
 ### Positivo: 
