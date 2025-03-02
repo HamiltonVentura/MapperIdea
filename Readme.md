@@ -259,8 +259,8 @@ flowchart LR
     F --> G[Modela em Mapa Mental];
     G --> H[Automatiza Geração de Implementações];
 
-    H -->|Utilizando MapperIdea| I [Geração código];
-    H -->|Utilizando ShellScript| J [Automatiza funções CLI];
+    H -->|Utilizando MapperIdea| I[Geração código];
+    H -->|Utilizando ShellScript| J[Automatiza funções CLI];
 
     style A fill:#f9f,stroke:#333,stroke-width:2px;
     style I fill:#bbf,stroke:#333,stroke-width:2px;
