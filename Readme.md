@@ -100,9 +100,16 @@ mi -h
 
 - inicialize o projeto com o nome do projeto e o nome do arquivo
 
+~~~bash
 mi init <nome do projeto> <arquivo.mm>
+~~~
+
 Atualize o projeto subindo as informações para o servidor
+
+~~~bash
 mi push <nome do projeto>
+~~~
+
 O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servidor para atualização, e então utilizar o comando para geração de código.
 
 
@@ -241,7 +248,8 @@ os retangulos que estãod e verde devem contar a tag green antes no nome atravé
 e icone de <> deve pode ser inserido através das teclas de atalho **alt + e** 
 
 ![image](https://github.com/user-attachments/assets/34a6cb7e-ec3b-488b-ad68-18595a467bae)
-
+## Exemplo
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/images/geracaoex1.gif)
 ## Pontos positivos e negativos da Ferramentas. ##
 
 ### Positivo: 
