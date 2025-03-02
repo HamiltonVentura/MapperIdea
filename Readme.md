@@ -109,6 +109,7 @@ Atualize o projeto subindo as informações para o servidor
 ~~~bash
 mi push <nome do projeto>
 ~~~
+![gif](imagens/push.gif)
 
 O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servidor para atualização, e então utilizar o comando para geração de código.
 
