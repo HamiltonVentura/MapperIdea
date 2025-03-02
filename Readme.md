@@ -25,8 +25,8 @@ Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaprov
 #### Pré-Requisitos
 >[!IMPORTANT]
 >**Para modeladores de regras de negócio** <br>
-> Conceito de classes, atributos e propriedade <br>
-> Os principais conceitos de Orientação a objetos <br>
+> Conceito de classes, atributos e propriedade
+> Os principais conceitos de Orientação a objetos
 
 #### Principais conceitos MaperIDea
 >[!IMPORTANT]
