@@ -259,7 +259,7 @@ flowchart LR
     F --> G[Modela em Mapa Mental];
     G --> H[Automatiza Geração de Implementações];
 
-    H -->|Envia para| I[GitHub];
+    H -->|Utilizando MapperIdea| I[GitHub];
 
     style A fill:#f9f,stroke:#333,stroke-width:2px;
     style I fill:#bbf,stroke:#333,stroke-width:2px;
