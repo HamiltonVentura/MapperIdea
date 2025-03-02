@@ -247,7 +247,7 @@ e icone de <> deve pode ser inserido através das teclas de atalho **alt + e**
 ### Positivo: 
 
 #### 1 - Útil para automação de códigos legados.
-A ideia é interessante ao se aplicar em softwares mais "maduros" e legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto facilitando o entendimento em certo nível.
+A ideia é interessante ao se aplicar em softwares legados, levando-se em consideração rotinas bem definidas que os mesmos já possuem. A ideia de ser visual pode aproximar os interessados no projeto (stakeholders) facilitando o entendimento em certo nível.
 #### 2 - Simplicidade no Comando de linhas.
 São poucos comandos de linha no terminal para geração de código, ou seja após a arquitetura e classes mapeadas, se torna fácil "gerar" os códigos por linha de comando.
 #### 3 - Iconografia Bem definida.
@@ -272,10 +272,25 @@ Senti dificuldade de ferramentas que facilitasem um pouco mais as coisas.
 Em diversas situações meus arquivos corromperam, apesar de fazer commits com frequência, acabei perdendo alterações importantes que fiz em lote
 
 #### 6 Pouca documentação de apoio.
-Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas auxentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento de forma mais ampla.    
+Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas ausentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento.    
 
 ```mermaid
-graph LR
-  
+flowchart LR
+    A[br.com.projeto] --> B[config]
+    B --> C[mapperidea]
+    C --> D[generators]
+    D --> E[Java]
+    E --> F[codigoClasse]
+
+    F --> G[patterns]
+    G --> H[padraoInicio]
+    G --> I[padraoFim]
+    G --> J[body]
+    G --> K[start]
+    G --> L[match]
+
+    H -->|"class nomeClasse {"| M[ ]
+    K --> N[write-pattern]
+    N --> O[/classes]
     N --> P[padraoInicio]
-´´´
+
