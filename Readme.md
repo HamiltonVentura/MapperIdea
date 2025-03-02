@@ -115,7 +115,9 @@ O fluxo repetitivo do projeto é sempre alterar o arquivo, dar um push no servid
 
 
 ### ICONOGRAFIA ####
+
 Para adicionar um ícone a qualquer um de seus nós em seu mapa mental utilize a tecla de atalho "Alt + I" o qual abrirá uma tela de icones, você poderá clicar no ícone desejado ou poderá utilizar as teclas de talhos. Acompanhe a baixo os ícones mais utilizados para mapeamentos de regra de negócio.<br>
+
 <img src="https://github.com/HamiltonVentura/MapperIdea-Java/blob/main/icones/telaIcones.png" alt="Imagem telas de ícones" width="200">
 
 
@@ -248,8 +250,10 @@ os retangulos que estãod e verde devem contar a tag green antes no nome atravé
 e icone de <> deve pode ser inserido através das teclas de atalho **alt + e** 
 
 ![image](https://github.com/user-attachments/assets/34a6cb7e-ec3b-488b-ad68-18595a467bae)
+
+
 ## Exemplo
-![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/images/geracaoex1.gif)
+![Texto alternativo](https://github.com/HamiltonVentura/MapperIdea-Java/imagens/geracaoex1.gif)
 ## Pontos positivos e negativos da Ferramentas. ##
 
 ### Positivo: 
