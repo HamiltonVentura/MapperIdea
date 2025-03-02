@@ -273,24 +273,3 @@ Em diversas situações meus arquivos corromperam, apesar de fazer commits com f
 
 #### 6 Pouca documentação de apoio.
 Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas ausentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento.    
-
-```mermaid
-flowchart LR
-    A[br.com.projeto] --> B[config]
-    B --> C[mapperidea]
-    C --> D[generators]
-    D --> E[Java]
-    E --> F[codigoClasse]
-
-    F --> G[patterns]
-    G --> H[padraoInicio]
-    G --> I[padraoFim]
-    G --> J[body]
-    G --> K[start]
-    G --> L[match]
-
-    H -->|"class nomeClasse {"| M[ ]
-    K --> N[write-pattern]
-    N --> O[classes]
-    N --> P[padraoInicio]
-
