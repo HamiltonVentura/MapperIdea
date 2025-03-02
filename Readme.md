@@ -288,3 +288,11 @@ Em diversas situações meus arquivos corromperam, apesar de fazer commits com f
 
 #### 6 Pouca documentação de apoio.
 Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas ausentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento.    
+
+
+
+### Observações e Recomendações
+Vejo com uma solução viável a códigos legados, mas não como uma opção para arquitetura para início de projetos grandes, pois na minha visão a demanda para digitar código e redigitar no mapa, atualizar tudo caso haja alterações siginificativa no projeto, Torna moroso a entrega final. 
+
+### Minha Opinião 
+Me parece ser uma ferramenta não tão intuitiva com relação aos mapeamentos se tratando de tela e classes e banco de dados. Achei mais fácil criar de forma direta do que utiliza-la.
