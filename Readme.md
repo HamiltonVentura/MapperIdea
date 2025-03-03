@@ -20,8 +20,6 @@ MapperIdea é uma ferramenta que automatiza a geração de código em conjunto c
 __Finalidade da Ferramenta :__
 Agilizar o desenvolvimento de Software com mapas mentais, possibilitando reaproveitamento de código através da arquitetura modelada pelo Desenvolvedor / Analista.
 *Ideia : "Criar na unha  apenas uma vez"*
-* observação: não recomendo a ferramenta,  para desenvolver softwares do zero. Extremamente moroso.
-
 #### Pré-Requisitos
 >[!IMPORTANT]
 >**Para modeladores de regras de negócio** <br>
