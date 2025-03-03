@@ -289,10 +289,9 @@ Em diversas situações meus arquivos corromperam, apesar de fazer commits com f
 #### 6 Pouca documentação de apoio.
 Com relação a documentação escrita, tem-se uma documentação parcial, com as principais funções, mas ausentes de iconografia, e Exemplos documentados de código que possam facilitar o entendimento.    
 
-
-
 ### Observações e Recomendações
 Vejo com uma solução viável a códigos legados, mas não como uma opção para arquitetura para início de projetos grandes, pois na minha visão a demanda para digitar código e redigitar no mapa, atualizar tudo caso haja alterações siginificativa no projeto, Torna moroso a entrega final. 
 
 ### Minha Opinião 
-Me parece ser uma ferramenta não tão intuitiva com relação aos mapeamentos se tratando de tela e classes e banco de dados. Achei mais fácil criar de forma direta do que utiliza-la.
+Me parece ser uma ferramenta não tão intuitiva com relação aos mapeamentos se tratando de tela e classes e banco de dados. Achei mais fácil criar de forma direta do que utiliza-la.<br>
+Pensando nisso A MapperIdea tem mapeamentos "pré determinados",eu poderia dizer módulos, esses módulo teriam a funcionalidade de gerar os projetos bases, por exemplo: Spring Boot, Angular e conectar esses frameworks. Mas não consegui ter contatos com esses módulos, mas pude ver que para um bom workflow a mapperidea pode ajuda se o desenvolvedor adaptar a ferramenta as necessidades, a questão seria o custo benefício, tempo de aprendizado + valor da ferramenta.
