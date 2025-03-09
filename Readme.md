@@ -291,12 +291,12 @@ Com relação a documentação escrita, tem-se uma documentação parcial, com a
 Vejo com uma solução viável a códigos legados, mas não como uma opção para arquitetura para início de projetos grandes, pois na minha visão a demanda para digitar código e redigitar no mapa, atualizar tudo caso haja alterações siginificativa no projeto, Torna moroso a entrega final. 
 
 ### Minha Opinião 
-A MapperIdea aparenta ser uma ferramenta pouco intuitiva no que diz respeito ao mapeamento entre telas, classes e banco de dados. Na minha experiência, a criação direta desses elementos se mostrou mais prática do que o uso da ferramenta.
+A MapperIdea aparenta ser uma ferramenta pouco intuitiva no que diz respeito ao mapeamento entre telas, classes e banco de dados. Na minha experiência, a criação direta desses elementos se mostrou melhor do que o uso da ferramenta.
 
-No entanto, a MapperIdea possui mapeamentos pré-definidos, que podem ser entendidos como módulos. Esses módulos têm o potencial de facilitar a geração de projetos base, integrando tecnologias como Spring Boot e Angular. Apesar de não ter conseguido explorar esses módulos diretamente, percebi que a ferramenta pode contribuir para um fluxo de trabalho mais eficiente, desde que o desenvolvedor consiga adaptá-la às suas necessidades.
+No entanto, a MapperIdea possui mapeamentos pré-definidos, que podem ser entendidos como módulos. Esses módulos têm o potencial de facilitar a geração de projetos base, integrando tecnologias como Spring Boot e Angular. Apesar de não ter conseguido explorar esses módulos diretamente, percebi que a ferramenta pode contribuir para um fluxo de trabalho mais eficiente, desde que o desenvolvedor consiga adaptá-la às suas necessidades e criar na própria ferramenta sua arquitetura.
 
 O principal fator a ser considerado é o custo-benefício, levando em conta o tempo de aprendizado necessário e o investimento na ferramenta.
 
-Atualmente, o mercado oferece diversas alternativas e conjuntos de ferramentas para otimizar a geração de código e a produtividade do desenvolvedor. A MapperIdea se destaca por buscar a integração dessas ferramentas por meio de scripts Shell, associando-as a um sistema de mapeamento.
+Atualmente, o mercado oferece diversas alternativas e conjuntos de ferramentas para otimizar a geração de código e a produtividade do desenvolvedor. A MapperIdea se destaca por buscar a integração dessas ferramentas por meio da tecnologia desenvolvida.
 
 No entanto, devido à sua complexidade, percebi que, em alguns casos, a geração direta do código pode ser uma abordagem mais eficiente. A introdução de um nível adicional de complexidade ao projeto pode impactar o tempo de entrega, tornando essencial avaliar se os benefícios da ferramenta justificam o investimento em aprendizado e adaptação.
