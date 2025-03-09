@@ -272,7 +272,7 @@ A documentação de funções xpath, mi e xquery, o que facilita nas consultas.
 ### Negativos: 
  
 #### 1  Ferramentas desatualizadas
-Exemplo do Node, e o Freemind, ferramentas que exigem versões mais antigas.
+Exemplo do Node, e o Freemind, A MAPPERIDEA usa essas ferramentas com versões mais antigas.
 
 #### 3  Tempo de construção da arquitetura muito elevados.
 Na minha experiência tive que modelar um software desde o fundamento. Levando-se em consideração que muitas vezes a construção de um software é um processo que exige modificações, muitas vezes na ideia da arquitetura, pode tornar o mapeamento um problema em vez de solução.
